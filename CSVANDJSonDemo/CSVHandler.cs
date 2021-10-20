@@ -46,7 +46,7 @@ namespace CSVANDJSonDemo
                 using (StreamWriter sw = new StreamWriter(exportJsonFilePath))
                 using (JsonWriter writer = new JsonTextWriter(sw))
                 {
-                    serializer.Serialize(sw, writer);
+                    serializer.Serialize(sw, records);
                 }
 
                 Console.WriteLine("Successfully Exported!");
