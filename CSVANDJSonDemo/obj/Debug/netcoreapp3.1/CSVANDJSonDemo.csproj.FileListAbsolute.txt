@@ -1,0 +1,17 @@
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.exe
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.deps.json
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.runtimeconfig.json
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.runtimeconfig.dev.json
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.dll
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CSVANDJSonDemo.pdb
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.csproj.AssemblyReference.cache
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.AssemblyInfoInputs.cache
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.AssemblyInfo.cs
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.csproj.CoreCompileInputs.cache
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.csproj.CopyComplete
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.dll
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.pdb
+E:\ASP.NET\CSVANDJSonDemo\obj\Debug\netcoreapp3.1\CSVANDJSonDemo.genruntimeconfig.cache
+E:\ASP.NET\CSVANDJSonDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

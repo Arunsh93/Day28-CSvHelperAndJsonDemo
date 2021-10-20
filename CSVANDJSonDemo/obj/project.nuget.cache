@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4puimozCSCzsPqgZm11ncGcq7jD3cl6P8QAmUEIgwf+i/F30OKS4qbn9ifZC2DmRJFMtQOBNmbz7qeU1ZLbQg==",
+  "success": true,
+  "projectFilePath": "E:\\ASP.NET\\CSVANDJSonDemo\\CSVANDJSonDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arun Hosur\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Arun Hosur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Arun Hosur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
